@@ -1,0 +1,12 @@
+* Homework 2 Question C2;
+libname mydata 'Z:\';
+*run regression SBP on SMK;
+proc reg data=WORK.Hw2_qa1;
+    model SBP=SMK;
+	output out=out p=predictions r=residuals;
+	title 'Regression of SBP vs SMK';
+run;
+*Get descriptive stats;
+proc univariate data=out;
+	var residuals;
+run;

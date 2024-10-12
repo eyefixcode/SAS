@@ -1,0 +1,14 @@
+* - HW #3 Question B 2.;
+libname mydata 'Z:/';
+data chol_281;
+	set mydata.chol_281;
+	logTG = log(tg);
+run;
+proc reg data=chol_281;
+	model logTG = Female / clb;
+	output out = RegX p = prediction r = residuals;
+	title 'logTG on Sex Simple Linear Regression';
+run;	
+proc univariate data=RegX plot normal;
+	title 'Univariate Stats to Assess Normality';
+run;

@@ -1,0 +1,15 @@
+* - HW #3 Question B 3.;
+libname mydata 'Z:/';
+data chol_281;
+	set mydata.chol_281;
+	logTG = log(tg);
+run;
+proc reg data=chol_281;
+	model logTG = Female BMI AGE HT;
+	output out = RegX p = prediction r = residuals;
+	title 'logTG on Sex, BMI, Age, and Height Multiple Linear Regression';
+run;	
+proc univariate data=RegX plot normal;
+	var residuals;
+	title 'Univariate Stats to Assess Normality';
+run;

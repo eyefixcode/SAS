@@ -1,0 +1,17 @@
+* Homework #2 Question A1;
+* Create BMI var / Scatterplot / ; 
+libname mydata 'Z:\';
+data HW2_QA1;
+	infile 'Z:\ex0502_281.dat' expandtabs;
+	input PERSON SBP QUET AGE SMK;	
+	BMI = QUET/100*703.1;
+	*- Add Labels (SBP/QUET/SMK/BMI);
+	label SBP = 'Systolic Blood Pressure';
+	label QUET = 'Quetlet Index'; 
+	label SMK = 'Smoking History'; 
+	label BMI = 'Body Mass Index';	
+run;
+proc sgplot data=HW2_QA1;
+	reg y=SBP x=BMI;
+	title 'Linear Regression SBP on BMI';
+run;

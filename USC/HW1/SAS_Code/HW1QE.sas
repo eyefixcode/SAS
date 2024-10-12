@@ -1,0 +1,13 @@
+* - Homework 1 Question E - Review of Statistical probabilities;
+data StatReview;
+	Y1a=1-probnorm(-1);
+	Y1b=probit(0.20);
+	Y2a=cinv(0.99,7);
+	Y2b=probchi(14,12);
+	Y3a=tinv(0.1,13);
+	Y3b=2*(1-probt(2.05,28));
+	Y4a=finv(0.95,6,24);
+	Y4b=1-probf(2.9,5,40);
+run;
+proc print data=StatReview;
+run;

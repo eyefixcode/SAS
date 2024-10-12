@@ -1,0 +1,55 @@
+* Lab #5 Part 1;
+*Define dir;
+libname mydata 'Z:/';
+
+*create df;
+data L5_P1;
+	set mydata.ques1_2; * get data;
+	* set trvlexp, gal30, milepergal, totmile;
+	if transportation ne 1 then trvlexp = 1;
+	if transportation = 1 then do;
+		gal30=30/gasprice;
+		milepergal = tanklast / tankvol;
+		mile30 = gal30*milepergal;
+		totmile = oneway*schtimes*2;
+		if mile30 >= totmile then trvlexp = 1;
+		else trvlexp = 0;
+	end;
+	birthy=2005;
+	* create birthdat;
+	birthdat = mdy (birthm, birthd, birthy);
+	format birthdat mmddyy8.;
+	* set ht = height;
+	ht = (12*htfeet) + htinches;
+	if ht>65.5 then stature = 1;
+	else if ht ne . then stature = 0;
+run;
+
+* get freq % for categorical vars(sex stature suv trvlexp race transportation);
+proc freq data=L5_P1;
+	tables (sex stature suv trvlexp race transportation) *labnum/ chisq;
+run;
+proc sort data=L5_P1;
+	by labnum;
+run;
+* provide means for numeric vars(ht oneway);
+proc means data=L5_P1;
+	var ht oneway;
+	by labnum;
+run;
+* test for stat sig;
+proc ttest data=L5_P1;
+	class labnum;
+	var ht oneway;
+run;
+
+
+* export data;
+data mydata.Lab5Pt1_Lab1;
+	set L5_P1;
+	if labnum= 1;
+run;
+data mydata.Lab5Pt1_Lab2;
+	set L5_P1;
+	if labnum= 2;
+run;

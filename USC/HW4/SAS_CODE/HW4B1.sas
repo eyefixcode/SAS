@@ -1,0 +1,12 @@
+libname mydata "Z:";
+data HW4b;
+	set mydata.chol_281;
+	AGE10=AGE/10;
+run;
+proc sgpanel data=HW4b;
+	panelby female / rows=2;
+	scatter y=LOGCHOL x=AGE;
+	reg y=LOGCHOL x=AGE / lineattrs=(color=red pattern=solid);
+	refline 0 / axis=y lineattrs=(color=black pattern=dash);
+	title 'Plot of Log Cholesterol Levels and Age by Sex';
+run;

@@ -1,0 +1,1091 @@
+From: "Saved by Internet Explorer 11"
+Subject: SAS Output
+Date: Tue, 21 May 2024 19:03:20 -0700
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----=_NextPart_000_0028_01DAABB1.8BBE3330"
+X-MimeOLE: Produced By Microsoft MimeOLE
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0028_01DAABB1.8BBE3330
+Content-Type: text/html;
+	charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file://C:\Users\jsettles\AppData\Local\Temp\SAS Temporary Files\_TD10204_VDI-EE10-PRD079_\sashtml13.htm
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD><META content=3D"IE=3D5.0000" =
+http-equiv=3D"X-UA-Compatible">
+<TITLE>SAS Output</TITLE>
+<META name=3DGENERATOR content=3D"MSHTML 11.00.10570.1001">
+<META content=3D"text/html; charset=3Dwindows-1252" =
+http-equiv=3DContent-type>
+<STYLE type=3Dtext/css>.accessiblecaption {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.activelink {
+	COLOR: #800080
+}
+.aftercaption {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; PADDING-TOP: 4pt; =
+BORDER-SPACING: 0px; BACKGROUND-COLOR: #fafbfe
+}
+.batch {
+	FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 1px solid; FONT-FAMILY: 'SAS =
+Monospace', 'Courier New', Courier, monospace; BORDER-RIGHT: #c1c1c1 1px =
+solid; BORDER-COLLAPSE: separate; BORDER-BOTTOM: #c1c1c1 1px solid; =
+FONT-WEIGHT: normal; COLOR: #000000; PADDING-BOTTOM: 7px; FONT-STYLE: =
+normal; PADDING-TOP: 7px; PADDING-LEFT: 7px; BORDER-SPACING: 1px; =
+BORDER-LEFT: #c1c1c1 1px solid; PADDING-RIGHT: 7px; BACKGROUND-COLOR: =
+#fafbfe
+}
+.beforecaption {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BORDER-SPACING: =
+0px; BACKGROUND-COLOR: #fafbfe
+}
+.body {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; MARGIN-LEFT: =
+8px; BACKGROUND-COLOR: #fafbfe; MARGIN-RIGHT: 8px
+}
+.bodydate {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+WIDTH: 100%; VERTICAL-ALIGN: top; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; TEXT-ALIGN: right; BORDER-SPACING: 0px; =
+BACKGROUND-COLOR: #fafbfe
+}
+.bycontentfolder {
+	LIST-STYLE-TYPE: none; FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany =
+AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: =
+normal; MARGIN-LEFT: 6pt
+}
+.byline {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BORDER-SPACING: =
+0px; BACKGROUND-COLOR: #fafbfe
+}
+.bylinecontainer {
+	FONT-SIZE: x-small; BORDER-TOP: #000000 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #000000 0px solid; WIDTH: =
+100%; BORDER-BOTTOM: #000000 0px solid; FONT-WEIGHT: normal; COLOR: =
+#000000; FONT-STYLE: normal; BORDER-SPACING: 1px; BORDER-LEFT: #000000 =
+0px solid; BACKGROUND-COLOR: #fafbfe
+}
+.caption {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BORDER-SPACING: =
+0px; BACKGROUND-COLOR: #fafbfe
+}
+.cell {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.container {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.contentfolder {
+	LIST-STYLE-TYPE: none; FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany =
+AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: =
+normal; MARGIN-LEFT: 6pt
+}
+.contentitem {
+	LIST-STYLE-TYPE: none; FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany =
+AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: =
+normal; MARGIN-LEFT: 6pt
+}
+.contentproclabel {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.contentprocname {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.contents {
+	LIST-STYLE-TYPE: decimal; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; MARGIN-LEFT: 8px; BACKGROUND-COLOR: #fafbfe; =
+MARGIN-RIGHT: 8px
+}
+.contentsdate {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+WIDTH: 100%; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.contenttitle {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: italic; BACKGROUND-COLOR: =
+#fafbfe
+}
+.continued {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+WIDTH: 100%; FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; =
+BORDER-SPACING: 0px; BACKGROUND-COLOR: #fafbfe
+}
+.data {
+	FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #c1c1c1 1px solid; =
+BORDER-BOTTOM: #c1c1c1 1px solid; FONT-WEIGHT: normal; FONT-STYLE: =
+normal; BORDER-LEFT: #c1c1c1 0px solid; BACKGROUND-COLOR: #ffffff
+}
+.dataemphasis {
+	FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #c1c1c1 1px solid; =
+BORDER-BOTTOM: #c1c1c1 1px solid; FONT-WEIGHT: normal; FONT-STYLE: =
+normal; BORDER-LEFT: #c1c1c1 0px solid; BACKGROUND-COLOR: #ffffff
+}
+.dataemphasisfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 0px solid; FONT-FAMILY: =
+'Courier New', Courier, monospace; BORDER-RIGHT: #c1c1c1 1px solid; =
+BORDER-BOTTOM: #c1c1c1 1px solid; FONT-WEIGHT: normal; FONT-STYLE: =
+italic; BORDER-LEFT: #c1c1c1 0px solid; BACKGROUND-COLOR: #ffffff
+}
+.dataempty {
+	FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #c1c1c1 1px solid; =
+BORDER-BOTTOM: #c1c1c1 1px solid; FONT-WEIGHT: normal; FONT-STYLE: =
+normal; BORDER-LEFT: #c1c1c1 0px solid; BACKGROUND-COLOR: #ffffff
+}
+.datafixed {
+	FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 0px solid; FONT-FAMILY: =
+'Courier New', Courier; BORDER-RIGHT: #c1c1c1 1px solid; BORDER-BOTTOM: =
+#c1c1c1 1px solid; FONT-WEIGHT: normal; FONT-STYLE: normal; BORDER-LEFT: =
+#c1c1c1 0px solid; BACKGROUND-COLOR: #ffffff
+}
+.datastrong {
+	FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #c1c1c1 1px solid; =
+BORDER-BOTTOM: #c1c1c1 1px solid; FONT-WEIGHT: bold; COLOR: #000000; =
+FONT-STYLE: normal; BORDER-LEFT: #c1c1c1 0px solid; BACKGROUND-COLOR: =
+#ffffff
+}
+.datastrongfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 0px solid; FONT-FAMILY: =
+'Courier New', Courier, monospace; BORDER-RIGHT: #c1c1c1 1px solid; =
+BORDER-BOTTOM: #c1c1c1 1px solid; FONT-WEIGHT: bold; COLOR: #000000; =
+FONT-STYLE: normal; BORDER-LEFT: #c1c1c1 0px solid; BACKGROUND-COLOR: =
+#ffffff
+}
+.date {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+WIDTH: 100%; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.document {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+A:link {
+	COLOR: #0000ff
+}
+A:visited {
+	COLOR: #800080
+}
+A:active {
+	COLOR: #800080
+}
+.errorbanner {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.errorcontent {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.errorcontentfixed {
+	FONT-SIZE: x-small; FONT-FAMILY: 'Courier New', Courier; FONT-WEIGHT: =
+normal; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.extendedpage {
+	FONT-SIZE: x-small; BORDER-TOP: #000000 1pt solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #000000 1pt solid; =
+BORDER-BOTTOM: #000000 1pt solid; FONT-WEIGHT: normal; COLOR: #112277; =
+FONT-STYLE: italic; TEXT-ALIGN: center; BORDER-LEFT: #000000 1pt solid; =
+BACKGROUND-COLOR: #fafbfe
+}
+.fatalbanner {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.fatalcontent {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.fatalcontentfixed {
+	FONT-SIZE: x-small; FONT-FAMILY: 'Courier New', Courier; FONT-WEIGHT: =
+normal; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.folderaction {
+	LIST-STYLE-TYPE: none; FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany =
+AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: =
+normal; MARGIN-LEFT: 6pt
+}
+.footer {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: bold; COLOR: #112277; =
+FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.footeremphasis {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: normal; COLOR: #112277; =
+FONT-STYLE: italic; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.footeremphasisfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: =
+'Courier New', Courier, monospace; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: normal; COLOR: #112277; =
+FONT-STYLE: italic; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.footerempty {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: bold; COLOR: #112277; =
+FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.footerfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: =
+'Courier New', Courier; BORDER-RIGHT: #b0b7bb 1px solid; BORDER-BOTTOM: =
+#b0b7bb 1px solid; FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: =
+normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: #edf2f9
+}
+.footerstrong {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: bold; COLOR: #112277; =
+FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.footerstrongfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: =
+'Courier New', Courier, monospace; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: bold; COLOR: #112277; =
+FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.frame {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.graph {
+	FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 1px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #c1c1c1 1px solid; =
+BORDER-COLLAPSE: separate; BORDER-BOTTOM: #c1c1c1 1px solid; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; BORDER-SPACING: =
+1px; BORDER-LEFT: #c1c1c1 1px solid; BACKGROUND-COLOR: #fafbfe
+}
+.header {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: bold; COLOR: #112277; =
+FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.headeremphasis {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: italic; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#d8dbd3
+}
+.headeremphasisfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: =
+'Courier New', Courier, monospace; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: italic; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#d8dbd3
+}
+.headerempty {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: bold; COLOR: #112277; =
+FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.headerfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: =
+'Courier New', Courier; BORDER-RIGHT: #b0b7bb 1px solid; BORDER-BOTTOM: =
+#b0b7bb 1px solid; FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: =
+normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: #edf2f9
+}
+.headersandfooters {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#edf2f9
+}
+.headerstrong {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: bold; COLOR: #000000; =
+FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#d8dbd3
+}
+.headerstrongfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: =
+'Courier New', Courier, monospace; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: bold; COLOR: #000000; =
+FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#d8dbd3
+}
+.heading1 {
+	FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.heading2 {
+	FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.heading3 {
+	FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.heading4 {
+	FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.heading5 {
+	FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.heading6 {
+	FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.index {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.indexaction {
+	LIST-STYLE-TYPE: none; FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany =
+AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: =
+normal; MARGIN-LEFT: 6pt
+}
+.indexitem {
+	LIST-STYLE-TYPE: none; FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany =
+AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: =
+normal; MARGIN-LEFT: 6pt
+}
+.indexprocname {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.indextitle {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: italic; BACKGROUND-COLOR: =
+#fafbfe
+}
+.layoutcontainer {
+	BORDER-TOP: #000000 0px solid; BORDER-RIGHT: #000000 0px solid; =
+BORDER-BOTTOM: #000000 0px solid; BORDER-SPACING: 30px; BORDER-LEFT: =
+#000000 0px solid
+}
+.layoutregion {
+	BORDER-TOP: #000000 0px solid; BORDER-RIGHT: #000000 0px solid; =
+BORDER-BOTTOM: #000000 0px solid; BORDER-SPACING: 30px; BORDER-LEFT: =
+#000000 0px solid
+}
+.linecontent {
+	FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #c1c1c1 1px solid; =
+BORDER-BOTTOM: #c1c1c1 1px solid; FONT-WEIGHT: normal; COLOR: #112277; =
+FONT-STYLE: normal; BORDER-LEFT: #c1c1c1 0px solid; BACKGROUND-COLOR: =
+#fafbfe
+}
+.link {
+	COLOR: #0000ff
+}
+.list {
+	LIST-STYLE-TYPE: disc; FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany =
+AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: =
+normal; BACKGROUND-COLOR: #fafbfe
+}
+.list10 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.list2 {
+	LIST-STYLE-TYPE: circle; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.list3 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.list4 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.list5 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.list6 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.list7 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.list8 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.list9 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.listitem {
+	LIST-STYLE-TYPE: disc; FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany =
+AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: =
+normal; BACKGROUND-COLOR: #fafbfe
+}
+.listitem10 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.listitem2 {
+	LIST-STYLE-TYPE: circle; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.listitem3 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.listitem4 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.listitem5 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.listitem6 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.listitem7 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.listitem8 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.listitem9 {
+	LIST-STYLE-TYPE: square; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.note {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.notebanner {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.notecontent {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.notecontentfixed {
+	FONT-SIZE: x-small; FONT-FAMILY: 'Courier New', Courier; FONT-WEIGHT: =
+normal; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.output {
+	FONT-SIZE: x-small; BORDER-TOP: #c1c1c1 1px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #c1c1c1 1px solid; =
+BORDER-COLLAPSE: separate; BORDER-BOTTOM: #c1c1c1 1px solid; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; BORDER-SPACING: =
+1px; BORDER-LEFT: #c1c1c1 1px solid; BACKGROUND-COLOR: #fafbfe
+}
+.pageno {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+VERTICAL-ALIGN: top; FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: =
+normal; TEXT-ALIGN: right; BORDER-SPACING: 0px; BACKGROUND-COLOR: =
+#fafbfe
+}
+.pages {
+	LIST-STYLE-TYPE: decimal; FONT-SIZE: x-small; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; =
+FONT-STYLE: normal; MARGIN-LEFT: 8px; BACKGROUND-COLOR: #fafbfe; =
+MARGIN-RIGHT: 8px
+}
+.pagesdate {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+WIDTH: 100%; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.pagesitem {
+	LIST-STYLE-TYPE: none; FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany =
+AMT', Helvetica, Helv; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: =
+normal; MARGIN-LEFT: 6pt
+}
+.pagesproclabel {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.pagesprocname {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.pagestitle {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: italic; BACKGROUND-COLOR: =
+#fafbfe
+}
+.paragraph {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.parskip {
+	FONT-SIZE: x-small; BORDER-TOP: #000000 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #000000 0px solid; =
+BORDER-BOTTOM: #000000 0px solid; FONT-WEIGHT: bold; FONT-STYLE: normal; =
+BORDER-SPACING: 0px; BORDER-LEFT: #000000 0px solid
+}
+.prepage {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; TEXT-ALIGN: =
+left; BACKGROUND-COLOR: #fafbfe
+}
+.proctitle {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.proctitlefixed {
+	FONT-SIZE: x-small; FONT-FAMILY: 'Courier New', Courier, monospace; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.rowfooter {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: bold; COLOR: #112277; =
+FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.rowfooteremphasis {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: normal; COLOR: #112277; =
+FONT-STYLE: italic; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.rowfooteremphasisfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: =
+'Courier New', Courier, monospace; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: normal; COLOR: #112277; =
+FONT-STYLE: italic; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.rowfooterempty {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: bold; COLOR: #112277; =
+FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.rowfooterfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: =
+'Courier New', Courier; BORDER-RIGHT: #b0b7bb 1px solid; BORDER-BOTTOM: =
+#b0b7bb 1px solid; FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: =
+normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: #edf2f9
+}
+.rowfooterstrong {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: bold; COLOR: #112277; =
+FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.rowfooterstrongfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: =
+'Courier New', Courier, monospace; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: bold; COLOR: #112277; =
+FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.rowheader {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: bold; COLOR: #112277; =
+FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.rowheaderemphasis {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: normal; COLOR: #112277; =
+FONT-STYLE: italic; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.rowheaderemphasisfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: =
+'Courier New', Courier, monospace; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: normal; COLOR: #112277; =
+FONT-STYLE: italic; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.rowheaderempty {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: bold; COLOR: #112277; =
+FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.rowheaderfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: =
+'Courier New', Courier; BORDER-RIGHT: #b0b7bb 1px solid; BORDER-BOTTOM: =
+#b0b7bb 1px solid; FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: =
+normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: #edf2f9
+}
+.rowheaderstrong {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: bold; COLOR: #112277; =
+FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.rowheaderstrongfixed {
+	FONT-SIZE: x-small; BORDER-TOP: #b0b7bb 0px solid; FONT-FAMILY: =
+'Courier New', Courier, monospace; BORDER-RIGHT: #b0b7bb 1px solid; =
+BORDER-BOTTOM: #b0b7bb 1px solid; FONT-WEIGHT: bold; COLOR: #112277; =
+FONT-STYLE: normal; BORDER-LEFT: #b0b7bb 0px solid; BACKGROUND-COLOR: =
+#edf2f9
+}
+.systemfooter {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.systemfooter10 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.systemfooter2 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.systemfooter3 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.systemfooter4 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.systemfooter5 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.systemfooter6 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.systemfooter7 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.systemfooter8 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.systemfooter9 {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.systemtitle {
+	FONT-SIZE: small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.systemtitle10 {
+	FONT-SIZE: small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.systemtitle2 {
+	FONT-SIZE: small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.systemtitle3 {
+	FONT-SIZE: small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.systemtitle4 {
+	FONT-SIZE: small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.systemtitle5 {
+	FONT-SIZE: small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.systemtitle6 {
+	FONT-SIZE: small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.systemtitle7 {
+	FONT-SIZE: small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.systemtitle8 {
+	FONT-SIZE: small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.systemtitle9 {
+	FONT-SIZE: small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.systitleandfootercontainer {
+	FONT-SIZE: x-small; BORDER-TOP: #000000 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #000000 0px solid; WIDTH: =
+100%; BORDER-BOTTOM: #000000 0px solid; FONT-WEIGHT: normal; COLOR: =
+#000000; FONT-STYLE: normal; BORDER-SPACING: 1px; BORDER-LEFT: #000000 =
+0px solid; BACKGROUND-COLOR: #fafbfe
+}
+.table {
+	BORDER-TOP: #c1c1c1 1px solid; BORDER-RIGHT: #c1c1c1 0px solid; =
+BORDER-COLLAPSE: collapse; BORDER-BOTTOM: #c1c1c1 0px solid; =
+BORDER-SPACING: 0px; BORDER-LEFT: #c1c1c1 1px solid
+}
+.top_stacked_value {
+	BORDER-TOP: 0px; BORDER-RIGHT: 0px; BORDER-BOTTOM: 0px; PADDING-BOTTOM: =
+1px; BORDER-LEFT: 0px
+}
+.middle_stacked_value {
+	BORDER-TOP: 0px; BORDER-RIGHT: 0px; BORDER-BOTTOM: 0px; PADDING-BOTTOM: =
+1px; PADDING-TOP: 1px; BORDER-LEFT: 0px
+}
+.bottom_stacked_value {
+	BORDER-TOP: 0px; BORDER-RIGHT: 0px; BORDER-BOTTOM: 0px; PADDING-TOP: =
+1px; BORDER-LEFT: 0px
+}
+.titleandnotecontainer {
+	FONT-SIZE: x-small; BORDER-TOP: #000000 0px solid; FONT-FAMILY: Arial, =
+'Albany AMT', Helvetica, Helv; BORDER-RIGHT: #000000 0px solid; WIDTH: =
+100%; BORDER-BOTTOM: #000000 0px solid; FONT-WEIGHT: normal; COLOR: =
+#000000; FONT-STYLE: normal; BORDER-SPACING: 1px; BORDER-LEFT: #000000 =
+0px solid; BACKGROUND-COLOR: #fafbfe
+}
+.titlesandfooters {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.usertext {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.visitedlink {
+	COLOR: #800080
+}
+.warnbanner {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: bold; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: =
+#fafbfe
+}
+.warncontent {
+	FONT-SIZE: x-small; FONT-FAMILY: Arial, 'Albany AMT', Helvetica, Helv; =
+FONT-WEIGHT: normal; COLOR: #112277; FONT-STYLE: normal; =
+BACKGROUND-COLOR: #fafbfe
+}
+.warncontentfixed {
+	FONT-SIZE: x-small; FONT-FAMILY: 'Courier New', Courier; FONT-WEIGHT: =
+normal; COLOR: #112277; FONT-STYLE: normal; BACKGROUND-COLOR: #fafbfe
+}
+.l {
+	TEXT-ALIGN: left
+}
+.c {
+	TEXT-ALIGN: center
+}
+.r {
+	TEXT-ALIGN: right
+}
+.d {
+	TEXT-ALIGN: right
+}
+.j {
+	TEXT-ALIGN: justify
+}
+.t {
+	VERTICAL-ALIGN: top
+}
+.m {
+	VERTICAL-ALIGN: middle
+}
+.b {
+	VERTICAL-ALIGN: bottom
+}
+TD {
+	VERTICAL-ALIGN: top
+}
+TH {
+	VERTICAL-ALIGN: top
+}
+.stacked_cell {
+	PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; =
+PADDING-RIGHT: 0px
+}
+</STYLE>
+</HEAD>
+<BODY class=3Dbody>
+<DIV class=3Dbranch><A name=3DIDX></A>
+<DIV>
+<DIV class=3Dc><IMG class=3Dc style=3D"HEIGHT: 480px; WIDTH: 640px" =
+border=3D0=20
+alt=3D"The SGPanel Procedure"=20
+src=3D"file:///C:/Users/jsettles/AppData/Local/Temp/SAS%20Temporary%20Fil=
+es/_TD10204_VDI-EE10-PRD079_/SGPanel7.png">=20
+</DIV></DIV><BR></DIV></BODY></HTML>
+
+------=_NextPart_000_0028_01DAABB1.8BBE3330
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/Users/jsettles/AppData/Local/Temp/SAS%20Temporary%20Files/_TD10204_VDI-EE10-PRD079_/SGPanel7.png
+
+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
+AAAASUVORK5CYII=
+
+------=_NextPart_000_0028_01DAABB1.8BBE3330--
